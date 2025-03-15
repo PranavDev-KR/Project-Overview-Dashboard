@@ -39,7 +39,7 @@ Project-Overview-Dashboard/
 - **[Datasets README](Assets/datasets/README.md)**: Explains the dataset structure.
 - **[Images README](Assets/images/README.md)**: Provides a description of dashboard visuals.
 - **[SQL Queries README](Assets/sql_queries/README.md)**: Details the SQL queries used for data processing.
-- **[Project Documentation](Assets/documentation)**: Details the documentation of this project.
+- **[Project Documentation](Assets/documentation/README.md)**: Details the documentation of this project.
 
 ---
 💡 *This project helps organizations monitor financial performance and make data-driven decisions for better budget management.* 🚀
