@@ -36,8 +36,8 @@ Project-Overview-Dashboard/
    - Use filters to analyze different departments and project statuses.
 
 ## 📎 Additional Documentation
-- **[Datasets README](datasets/README.md)**: Explains the dataset structure.
-- **[Images README](images/README.md)**: Provides a description of dashboard visuals.
+- **[Datasets README](Assets/datasets/README.md)**: Explains the dataset structure.
+- **[Images README](Assets/images/README.md)**: Provides a description of dashboard visuals.
 - **[SQL Queries README](sql_queries/README.md)**: Details the SQL queries used for data processing.
 
 ---
